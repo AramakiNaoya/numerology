@@ -82,7 +82,7 @@ input {
 
 @media (max-width: 400px) {
     .main {
-        padding-top: 30px;
+        padding-top: 100px;
         padding-bottom:35px;
         text-align: center;
     }
@@ -96,7 +96,7 @@ input {
     .container h1 {
         font-size: 50px;
         letter-spacing: 5px;
-        margin: 10px 0;
+        margin: 50px 0;
         font-weight: normal;
     }
     
@@ -104,7 +104,7 @@ input {
         font-size: 15px;
         margin: 12px;
         border: 2px solid #a9a9a9;
-        width: 150px;
+        width: 175px;
         border-radius: 10px;
         padding: 5px 5px;
         outline: none;
